@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <kml xmlns="http://earth.google.com/kml/2.1">
+    <Document>
+      <name>Taxi Routes</name>
+      <Style id="green">
+        <LineStyle>
+          <color>ff009900</color>
+          <width>4</width>
+        </LineStyle>
+      </Style>
+      <Style id="red">
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>4</width>
+        </LineStyle>
+      </Style>
+	  <Style id="brown">
+        <LineStyle>
+          <color>ff4169E1</color>
+          <width>4</width>
+        </LineStyle>
+      </Style>
+    </Document>
+  </kml>
